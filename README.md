@@ -1,1 +1,1 @@
-# bootstrap-tutorial
+# Bootstrap Tutorial for CS52 4/09 workshop
